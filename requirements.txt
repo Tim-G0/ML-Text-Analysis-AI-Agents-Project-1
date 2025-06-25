@@ -5,5 +5,5 @@ matplotlib>=3.7.1
 joblib>=1.3.2
 streamlit
 pypdf
-docx
+python-docx
 nltk
