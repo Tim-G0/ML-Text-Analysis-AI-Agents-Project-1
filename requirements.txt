@@ -1,0 +1,9 @@
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+matplotlib>=3.7.1
+joblib>=1.3.2
+streamlit
+pypdf
+docx
+nltk
