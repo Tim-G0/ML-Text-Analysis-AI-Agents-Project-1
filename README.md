@@ -1,1 +1,19 @@
 # ML-Text-Analysis-AI-Agents-Project-1
+- Application Requirements:
+  - Streamlit Python Library
+  - Python
+- Library Requirements:
+  - pandas
+  - numpy
+  - joblib
+  - matplotlib.pyplot
+  - pypdf
+  - docx
+  - string
+  - re
+  - nltk
+    -nltk.stem import WordNetLemmatizer
+    -nltk.corpus import stopwords
+- Running Application:
+  - cd into project directory
+  - streamlit run app.py
